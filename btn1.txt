@@ -1,0 +1,4 @@
+Pasas para crear un boton:
+  1. Crear el archivo
+  2. colocolar la extension file.dart
+  3. agregar al logica.
